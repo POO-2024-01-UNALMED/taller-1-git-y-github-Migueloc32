@@ -1,0 +1,2 @@
+ocurrio algun problema?
+r/ si, no fue posible hacer el commit
