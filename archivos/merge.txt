@@ -1,2 +1,7 @@
 Juan Miguel Ochoa Agudelo(18 años)
 mis aspiraciones con la materia son basicamente mejorar mi logica como programador, adaptarme a soluciones variadas a la hora de enfrentar un conflicto, busco tener bases  solidas para afrontar de mejor manera los desafios que se me propongan como programador e ingeniero en sistemas
+¿por que ahora si puede crear un commit y subir la carpeta?
+R/esto se debe a que la carpeta anteriormente estaba vacia, por ende no es posible subirla ya que no se considera como una adicion al proyeco. sin embargo, al agregar archivos y contenidos, es posible guardar y subir los cambios.
+¿Por qué
+es importante tener cuidado con modificar dos archivos al mismo tiempo?
+porque si no tenemos cuidado podemos caer en algun error, sin mencionar que podemos perder algun cambio que hagamos.
